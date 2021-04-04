@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rajat6697
+- 👋 Hi, I’m Rajat Verma
 - 👀 I’m interested in Data Analysis, Machine Learning and Web Development
 - 🌱 I’m currently learning Machine Learning
 - 📫 Contact me on rajatverma9664@gmail.com
